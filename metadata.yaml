@@ -1,0 +1,36 @@
+_repo: The-Spinners-Book-of-Fiction_20343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spinners' Club
+    gutenberg_agent_id: '37361'
+    url: http://www.gutenberg.org/2009/agents/37361
+description: ''
+gutenberg_issued: '2007-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20343'
+  lccn: '07032566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'American fiction -- California'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+tableOfContents: Concha Argüello, Sister Dominica, by Gertrude Atherton -- The Ford
+  of Crèvecœur, by Mary Austin -- A Californian, by Geraldine Bonner -- Gideon's Knock,
+  by Mary Halleck Foote -- A Yellow Man and a White, by Eleanor Gates -- The Judgment
+  of Man, by James Hopper -- The League of the Old Men, by Jack London -- Down the
+  Flume with the Sneath Piano, by Bailey Millard -- The Contumacy of Sarah L. Walker,
+  by Miriam Michelson -- Breaking Through, by W. C. Morrow -- A Lost Story, by Frank
+  Norris -- Hantu, by Henry Milner Rideout -- Miss. Juno, by Charles Warren Stoddard
+  -- A Little Savage Gentleman, by Isobel Strong -- Love and Advertising, by Richard
+  Walton Tully -- The Tewana, by Herman Whitaker.
+title: The Spinners' Book of Fiction
+url: http://www.gutenberg.org/ebooks/20343
